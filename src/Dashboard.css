@@ -1,0 +1,25 @@
+.btn.two{
+    padding: 16px 40px;
+    background: #B1C188;
+    background-image: linear-gradient(to left, transparent, transparent 50%, #F0A30A 50%, #F0A30A);
+    background-position: 100% 0;
+    background-size: 200% 100%;
+    transition: .8s;
+    cursor: pointer;
+    color: #E7D1B2;
+    text-shadow: 2px 2px 0px #563F3B;
+    text-transform: uppercase;
+    font-family: 'Kanit', sans-serif;
+    font-size: 22px;
+  }
+  
+  .btn.two:hover{
+    background-position: 0 0;
+    transition: .8s;
+  }
+
+  .containers{
+      padding:20px;
+  }
+
+  
