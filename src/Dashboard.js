@@ -98,7 +98,7 @@ function Dashboard() {
                     <div class="form" style={{ justifyContent: "center", display: "flex", flexDirection: "column", alignItems: "center", height: "100%", width: "100%" }}>
                     <h1 style={{color:"white"}}>Resize</h1>
 
-                        <input type="text" onChange={(event) => setCid(event.target.value)} ></input>
+                        <input type="text" onChange={(event) => setCid(event.target.value)} placeholder="CID" ></input>
                         <input type="range" style={{ marginTop: "30px" }} className="custom-range" min="0" max="1024"
                             onChange={(event) => setHeightval(event.target.value)} />
                         <h4 style={{ color: "white" }}>The range value is {height}</h4>
