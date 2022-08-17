@@ -12,7 +12,7 @@
     background-color: #31384B;
   }
   
-  // Animation
+  
   @keyframes loading {
     0% {
       left: -10px;
