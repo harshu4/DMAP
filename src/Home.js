@@ -9,13 +9,13 @@ function Home() {
       <div>
       <nav>
         <div class="logo">
-          <img src="https://akbarhlubis.github.io/asset/icon/Logo.png" alt=""/>
+          <h1 style={{color:"white",fontSize:"60px",marginTop:"20px",textAlign:"center"}}>DMAP</h1>
         </div>
        
       </nav>
       
     
-      <div class="hero" style={{paddingTop:"100px"}}>
+      <div class="hero" style={{paddingTop:"10px"}}>
         <div class="left-hero">
           <div class="heading">
           <Typed style={{color:"white",fontSize:"40px"}}
