@@ -35,9 +35,7 @@ function Dashboard() {
         setTimeout(() => {
             setmsg("Deploying wasm services")
         }, 9000);
-        setTimeout(() => {
-            setLoader(false)
-        }, 15000);
+       
 
     }
 
